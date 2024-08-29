@@ -2,4 +2,4 @@
 
 all credit goes to "https://github.com/S44WN/hailee-portfolio-website" 
 
-I have only slightly changed the code written by the above github user. 
+I have further modified the code for my own personilization 
